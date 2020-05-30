@@ -1,12 +1,9 @@
 # Awesome_Evaluation_Metrics_for_Text_Generation
 
-**BERTScore: Evaluating Text Generation with BERT **
-
-*Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi*
-
-Department of Computer Science,  xCornell Tech, Cornell University 
-
-ICLR,2020 [[paper]](https://arxiv.org/abs/1904.09675) [[code]](https://github.com/Tiiiger/bert_score)
+**BERTScore: Evaluating Text Generation with BERT**   
+*Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger, Yoav Artzi*   
+Department of Computer Science,  xCornell Tech, Cornell University     
+ICLR,2020 [[paper]](https://arxiv.org/abs/1904.09675) [[code]](https://github.com/Tiiiger/bert_score)    
 
 **Putting Evaluation in Context: Contextual Embeddings improve Machine Translation Evaluation**
 
